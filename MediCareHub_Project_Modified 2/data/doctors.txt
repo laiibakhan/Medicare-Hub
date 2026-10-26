@@ -1,0 +1,42 @@
+DOCTOR,DOC-1001,Dr. Hira Ahmed,30,Female,General Physician,1300.0
+DOCTOR,DOC-1002,Dr. Zain Abbas,36,Male,Orthopedic,2500.0
+DOCTOR,DOC-1003,Dr. Amna Tariq,40,Female,Cardiothoracic Surgeon,3000.0
+DOCTOR,DOC-1004,Dr. Bilal Ahmed,50,Male,Neurologist,2200.0
+DOCTOR,DOC-1005,Dr. Laiba Hassan,29,Female,Dermatologist,1000.0
+DOCTOR,DOC-1006,Dr. Noor Fatima,30,Female,Physiotherapist,1500.0
+DOCTOR,DOC-1007,Dr. Taha Rehman,35,Male,Neurosurgeon,3500.0
+DOCTOR,DOC-1008,Dr. Laiba Sheikh,29,Female,Dietitian,1200.0
+DOCTOR,DOC-1009,Dr. Usman Siddiqui,45,Male,Orthopedic Surgeon,2500.0
+DOCTOR,DOC-1010,Dr. Fatima Noor,32,Female,Gynecologist,2000.0
+DOCTOR,DOC-1011,Dr. Hira Shah,30,Female,Endocrinologist,2500.0
+DOCTOR,DOC-1012,Dr. Muhammad Hamza,37,Male,Emergency Medicine Specialist,2000.0
+DOCTOR,DOC-1013,Dr. Saad Qureshi,43,Male,Urologist,3000.0
+DOCTOR,DOC-1014,Dr. Eman Farooq,30,Female,ENT Specialist,1800.0
+DOCTOR,DOC-1015,Dr. Ali Hassan,34,Male,Ophthalmologist,1600.0
+DOCTOR,DOC-1016,Dr. Warishah Kamran,33,Female,Oncologist,2200.0
+DOCTOR,DOC-1017,Dr. Abdul Rehman,45,Male,Infectious Disease Specialist,2300.0
+DOCTOR,DOC-1018,Dr. Sehrish Khan,35,Female,Pathologist,1500.0
+DOCTOR,DOC-1019,Dr. Sana Malik,34,Female,General Physician,1200.0
+DOCTOR,DOC-1020,Dr. Ayesha Noor,32,Female,General Physician,1400.0
+DOCTOR,DOC-1021,Dr. Hamza Raza,39,Male,General Physician,1500.0
+DOCTOR,DOC-1022,Dr. Mariam Ali,31,Female,Cardiologist,2400.0
+DOCTOR,DOC-1023,Dr. Farhan Iqbal,42,Male,Cardiologist,2600.0
+DOCTOR,DOC-1024,Dr. Areeba Khan,35,Female,Neurologist,2300.0
+DOCTOR,DOC-1025,Dr. Omar Siddiq,40,Male,Neurologist,2500.0
+DOCTOR,DOC-1026,Dr. Zoya Ahmed,29,Female,Dentist,1800.0
+DOCTOR,DOC-1027,Dr. Ahmed Rauf,37,Male,Dentist,2000.0
+DOCTOR,DOC-1028,Dr. Nida Faisal,33,Female,Dentist,1900.0
+DOCTOR,DOC-1029,Dr. Hammad Shah,36,Male,Dermatologist,1700.0
+DOCTOR,DOC-1030,Dr. Esha Mir,30,Female,Dermatologist,1600.0
+DOCTOR,DOC-1031,Dr. Saima Khalid,38,Female,Pediatrician,1800.0
+DOCTOR,DOC-1032,Dr. Bilal Tariq,41,Male,Pediatrician,1900.0
+DOCTOR,DOC-1033,Dr. Rabia Aslam,34,Female,Gynecologist,2100.0
+DOCTOR,DOC-1034,Dr. Fahad Anwar,44,Male,Orthopedic Surgeon,2700.0
+DOCTOR,DOC-1035,Dr. Mahnoor Ilyas,32,Female,Endocrinologist,2200.0
+DOCTOR,DOC-1036,Dr. Saad Mahmood,39,Male,Gastroenterologist,2300.0
+DOCTOR,DOC-1037,Dr. Kinza Javed,31,Female,ENT Specialist,1700.0
+DOCTOR,DOC-1038,Dr. Rayan Asif,35,Male,Ophthalmologist,1750.0
+DOCTOR,DOC-1039,Dr. Hiba Noor,33,Female,Pulmonologist,2200.0
+DOCTOR,DOC-1040,Dr. Salman Qazi,46,Male,Nephrologist,2600.0
+DOCTOR,DOC-1041,Dr. Amara Sheikh,37,Female,Psychiatrist,2000.0
+DOCTOR,DOC-1042,Dr. Kamran Yousuf,43,Male,Urologist,2300.0

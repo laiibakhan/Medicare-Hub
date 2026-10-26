@@ -1,0 +1,5 @@
+PATIENT,PAT-1001,ali hassan,30,Male,Cough,DOC-1001
+PATIENT,PAT-1002,hassaan,66,Male,Diabetes,DOC-1001
+PATIENT,PAT-1003,hina,34,Female,Hypertension,DOC-1004
+PATIENT,PAT-1004,usman,35,Male,Diabetes,DOC-1006
+PATIENT,PAT-1005,alee,61,Male,Hypertension,DOC-1004
